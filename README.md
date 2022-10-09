@@ -1,8 +1,8 @@
-### Welcome to my profile! 🤟 <img align="right" src="https://user-images.githubusercontent.com/93985232/194731947-2106c79a-5ec8-4206-a496-2dc8c2213a24.gif"/>
-
+### Welcome to my profile! 🤟 [<img align="right" src="https://user-images.githubusercontent.com/93985232/194731947-2106c79a-5ec8-4206-a496-2dc8c2213a24.gif"/>](https://sfw.furaffinity.net/view/26665049/)
 - 👤 You can call me Krell 
 - 📱 I’m currently building Android ROMs for Redmi 9, Mi A2 Lite, Redmi 7
-- 📲 My main device Redmi 9
+- 📲 My main device: Redmi 9
+- 📝I have devices: Redmi 9, Mi A2 Lite, Samsung Galaxy S7 / S4 mini
 - 🔝 I create builds only LineageOS & CrDroid
 - 🐧 I use Linux systems. Love Arch & Fedora
 - 👥 My Telegram Group [@WolfAURmanRedmi9Builds](https://t.me/WolfAURmanRedmi9Builds)
